@@ -1,2 +1,2 @@
 #!/bin/bash
-The absolute path of the current working directory is: pwd
+pwd
